@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @michalgalkapja
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning java
+- 📫 How to reach me s12525@pja.edu.pl
